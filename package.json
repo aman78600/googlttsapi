@@ -1,0 +1,17 @@
+{
+  "name": "speech-test",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "google-tts-api": "0.0.1",
+    "lame": "^1.2.4",
+    "node-tts-google": "0.0.1",
+    "request": "^2.74.0",
+    "say": "^0.9.1",
+    "speaker": "^0.3.0"
+  }
+}
